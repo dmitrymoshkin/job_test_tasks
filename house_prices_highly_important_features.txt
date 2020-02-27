@@ -1,0 +1,12 @@
+MSSubClass
+MSZoning
+LotArea
+Utilities
+Neighborhood
+BldgType
+TotalBsmtSF
+1stFlrSF
+2ndFlrSF
+GrLivArea
+MiscFeature
+SaleCondition
