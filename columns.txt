@@ -78,4 +78,7 @@ MoSold
 YrSold
 SaleType
 SaleCondition
+<<<<<<< HEAD
 SalePrice
+=======
+>>>>>>> 22c982fa7022e9987b0d02148226e3bbf28973c7
