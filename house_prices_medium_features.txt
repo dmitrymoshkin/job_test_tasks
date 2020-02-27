@@ -1,6 +1,7 @@
 LotFrontage
 LandContour
 LotConfig
+LandSlope
 Condition1
 Condition2
 HouseStyle
